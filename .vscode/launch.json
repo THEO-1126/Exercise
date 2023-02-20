@@ -1,0 +1,56 @@
+{
+    // 使用 IntelliSense 了解相关属性。 
+    // 悬停以查看现有属性的描述。
+    // 欲了解更多信息，请访问: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch ColDemo",
+            "request": "launch",
+            "mainClass": "cn.edu.guet.ColDemo",
+            "projectName": "Exercise"
+        },
+        {
+            "type": "java",
+            "name": "Launch Filedemo",
+            "request": "launch",
+            "mainClass": "cn.edu.guet.IO.Filedemo",
+            "projectName": "Exercise"
+        },
+        {
+            "type": "java",
+            "name": "Launch ReaderFile",
+            "request": "launch",
+            "mainClass": "cn.edu.guet.IO.ReaderFile",
+            "projectName": "Exercise"
+        },
+        {
+            "type": "java",
+            "name": "Launch StringDemo",
+            "request": "launch",
+            "mainClass": "cn.edu.guet.StringDemo",
+            "projectName": "Exercise"
+        },
+        {
+            "type": "java",
+            "name": "Launch WordCount",
+            "request": "launch",
+            "mainClass": "cn.edu.guet.WordCount",
+            "projectName": "Exercise"
+        },
+        {
+            "type": "java",
+            "name": "Launch boxdemo",
+            "request": "launch",
+            "mainClass": "cn.edu.guet.boxdemo",
+            "projectName": "Exercise"
+        }
+    ]
+}
